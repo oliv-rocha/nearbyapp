@@ -1,4 +1,4 @@
- <h1 align="center">Nearby - Clube de Benefícios<h1>
+ <h1 align="center">Projeto Nearby App<h1>
 
 <p align="center">
   <img alt="Nearby" src=".github/preview.png" width="100%">
