@@ -30,7 +30,7 @@ Este é um aplicativo mobile de clube de benefícios que permite aos usuários r
 Para rodar o projeto localmente, você precisa dos seguintes requisitos:
 
 - **Android Studio** (ou IDE compatível com Kotlin)
-- **JDK 11 ou superior**
+- **JDK 17**
 - **Uma conta no Google Cloud** para configurar a API do Google Maps
 - **Conexão com a internet** (para testes e uso de API)
 
